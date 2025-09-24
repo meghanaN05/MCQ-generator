@@ -1,0 +1,5 @@
+github api
+langchain
+stremalit
+python-dotenv
+pyPDF2
